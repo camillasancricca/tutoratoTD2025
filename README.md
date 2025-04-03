@@ -9,7 +9,7 @@
 
 | Scaglione | Incontri               | Tutor             | Link |
 |:----------|:-----------------------|:------------------|:-----|
-| Campi     | 13/05/2025 15:00-18:00 | Camilla Sancricca | [Teams]([https://](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjNjNWRmNGMtZmZlOS00MzM5LWE0OTktYmE4YWI2ZjhiMDZj%40thread.v2/0?context=%7b%22Tid%22%3a%220a17712b-6df3-425d-808e-309df28a5eeb%22%2c%22Oid%22%3a%2215745798-f929-4f09-9243-9a6ab61f5323%22%7d)) |
+| Campi     | 13/05/2025 15:00-18:00 | Camilla Sancricca | [Teams]([https://](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjNjNWRmNGMtZmZlOS00MzM5LWE0OTktYmE4YWI2ZjhiMDZj%40thread.v2/0?context=%7b%22Tid%22%3a%220a17712b-6df3-425d-808e-309df28a5eeb%22%2c%22Oid%22%3a%2215745798-f929-4f09-9243-9a6ab61f5323%22%7d) |
 | Cappiello | 14/05/2025 15:00-18:00 | Camilla Sancricca | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2FlY2I1YjItNWFmZi00YWViLTk4MjMtM2JhM2IxMTIyYTVi%40thread.v2/0?context=%7b%22Tid%22%3a%220a17712b-6df3-425d-808e-309df28a5eeb%22%2c%22Oid%22%3a%2215745798-f929-4f09-9243-9a6ab61f5323%22%7d) |
 | Vitali    | 16/05/2025 10:00-13:00 | Camilla Sancricca | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDIwMDg0MGUtMGVkZi00YTA2LTk2ZDQtOTJkZDRlZTI0NDAy%40thread.v2/0?context=%7b%22Tid%22%3a%220a17712b-6df3-425d-808e-309df28a5eeb%22%2c%22Oid%22%3a%2215745798-f929-4f09-9243-9a6ab61f5323%22%7d) |
 | Plebani   | 16/05/2025 15:00-18:00 | Camilla Sancricca | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWEwOTFiZDItMTU5Ni00NWE3LTlkYmItZTUzOWFhM2EzOGZl%40thread.v2/0?context=%7b%22Tid%22%3a%220a17712b-6df3-425d-808e-309df28a5eeb%22%2c%22Oid%22%3a%2215745798-f929-4f09-9243-9a6ab61f5323%22%7d) |
