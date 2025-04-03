@@ -2,7 +2,7 @@
 
 ## Scopo del tutorato
 - Approfondiremo l’utilizzo di SQL per la progettazione e la realizzazione di un database
-  - Utilizzeremo un tool open source per creare uno schema di tabelle e, successivamente, interrogarle [DBFIDDLE](https://www.db-fiddle.com/)
+  - Utilizzeremo un tool open source per creare uno schema di tabelle e, successivamente, interrogarle [DB Fiddle](https://www.db-fiddle.com/)
 - Potrete ottenere fino a 1 punto aggiuntivo sul voto finale dell’esame
 
 ## Calendario e programma
@@ -65,7 +65,7 @@ Per ciascuna query:
 - Ogni file deve essere correttamente formattato secondo gli standard MySQL
 - Ogni file deve poter essere eseguito indipendentemente dagli altri file (es. non si può utilizzare una VIEW creata in un altro file, ma ogni VIEW deve essere ridefinita all'interno di ogni file che la utilizza)
 
-Si consiglia di provare ad eseguire le query in *dbfiddle*, e una volta soddisfatti della propria soluzione, copiarla e incollarla all'interno di una nuovo file .txt.
+Si consiglia di provare ad eseguire le query in *DB Fiddle*, e una volta soddisfatti della propria soluzione, copiarla e incollarla all'interno di una nuovo file .txt.
 
 ## Plagio
 Il tutorato non prevede lavori di gruppo. Ogni studente deve lavorare individualmente alla propria personale soluzione del problema. Ai fini della valutazione, gli studenti possono essere convocati, a campione o a giudizio dei tutor, per verificare l'effettiva paternità delle soluzioni inviate. Nel caso la verifica abbia esito negativo, verrà annullato l'incremento di voto assegnato e saranno presi adeguati provvedimenti.
