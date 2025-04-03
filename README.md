@@ -7,12 +7,16 @@
 
 ## Calendario e programma
 
-| Scaglione | Incontri                                             | Tutor             | Link |
-|:----------|:-----------------------------------------------------|:------------------|:-----|
-| Campi     | 13/05/2025 15:00-18:00 <br /> 20/05/2025 15:00-17:00 | Camilla Sancricca | [Teams](https://)  |
-| Cappiello | 14/05/2025 15:00-18:00 <br /> 21/05/2025 15:00-17:00 | Camilla Sancricca | [Teams](https://)  |
-| Vitali    | 16/05/2025 10:00-13:00 <br /> 23/05/2025 10:00-12:00 | Camilla Sancricca | [Teams](https://)  |
-| Plebani   | 16/05/2025 15:00-18:00 <br /> 23/05/2025 15:00-17:00 | Camilla Sancricca | [Teams](https://)  |
+| Scaglione | Incontri               | Tutor             | Link |
+|:----------|:-----------------------|:------------------|:-----|
+| Campi     | 13/05/2025 15:00-18:00 | Camilla Sancricca | [Teams]([https://](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjNjNWRmNGMtZmZlOS00MzM5LWE0OTktYmE4YWI2ZjhiMDZj%40thread.v2/0?context=%7b%22Tid%22%3a%220a17712b-6df3-425d-808e-309df28a5eeb%22%2c%22Oid%22%3a%2215745798-f929-4f09-9243-9a6ab61f5323%22%7d)) |
+| Cappiello | 14/05/2025 15:00-18:00 | Camilla Sancricca | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2FlY2I1YjItNWFmZi00YWViLTk4MjMtM2JhM2IxMTIyYTVi%40thread.v2/0?context=%7b%22Tid%22%3a%220a17712b-6df3-425d-808e-309df28a5eeb%22%2c%22Oid%22%3a%2215745798-f929-4f09-9243-9a6ab61f5323%22%7d) |
+| Vitali    | 16/05/2025 10:00-13:00 | Camilla Sancricca | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDIwMDg0MGUtMGVkZi00YTA2LTk2ZDQtOTJkZDRlZTI0NDAy%40thread.v2/0?context=%7b%22Tid%22%3a%220a17712b-6df3-425d-808e-309df28a5eeb%22%2c%22Oid%22%3a%2215745798-f929-4f09-9243-9a6ab61f5323%22%7d) |
+| Plebani   | 16/05/2025 15:00-18:00 | Camilla Sancricca | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWEwOTFiZDItMTU5Ni00NWE3LTlkYmItZTUzOWFhM2EzOGZl%40thread.v2/0?context=%7b%22Tid%22%3a%220a17712b-6df3-425d-808e-309df28a5eeb%22%2c%22Oid%22%3a%2215745798-f929-4f09-9243-9a6ab61f5323%22%7d) |
+| Campi     | 20/05/2025 15:00-17:00 | Camilla Sancricca | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGNjYjZiY2ItNmY2YS00ZGQ5LWJmOWYtMDUwYmY3MDI0Zjdh%40thread.v2/0?context=%7b%22Tid%22%3a%220a17712b-6df3-425d-808e-309df28a5eeb%22%2c%22Oid%22%3a%2215745798-f929-4f09-9243-9a6ab61f5323%22%7d) |
+| Cappiello | 21/05/2025 15:00-17:00 | Camilla Sancricca | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWUwMzI4YTItNDNjYS00MjFlLTkyMDUtZmQzYzRmNjNhMTYy%40thread.v2/0?context=%7b%22Tid%22%3a%220a17712b-6df3-425d-808e-309df28a5eeb%22%2c%22Oid%22%3a%2215745798-f929-4f09-9243-9a6ab61f5323%22%7d) |
+| Vitali    | 23/05/2025 10:00-12:00 | Camilla Sancricca | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmI1OTM3MjUtOGZkNi00MzRiLWJmY2ItNjk3MmFhNWRhNmI4%40thread.v2/0?context=%7b%22Tid%22%3a%220a17712b-6df3-425d-808e-309df28a5eeb%22%2c%22Oid%22%3a%2215745798-f929-4f09-9243-9a6ab61f5323%22%7d) |
+| Plebani   | 23/05/2025 15:00-17:00 | Camilla Sancricca | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWRlMmNkNjgtZjI1Ny00NDRhLTk5YjUtNDQ4OThmYWNhZGNj%40thread.v2/0?context=%7b%22Tid%22%3a%220a17712b-6df3-425d-808e-309df28a5eeb%22%2c%22Oid%22%3a%2215745798-f929-4f09-9243-9a6ab61f5323%22%7d) |
 
 Modalità del tutorato:
 - Gli incontri si svolgeranno in modalità *a distanza*
@@ -71,5 +75,5 @@ Si consiglia di provare ad eseguire le query in *DB Fiddle*, e una volta soddisf
 Il tutorato non prevede lavori di gruppo. Ogni studente deve lavorare individualmente alla propria personale soluzione. Ai fini della valutazione, gli studenti possono essere convocati, a campione o a giudizio dei tutor, per verificare l'effettiva paternità delle soluzioni inviate. Nel caso la verifica abbia esito negativo, verrà annullato l'incremento di voto assegnato e saranno presi adeguati provvedimenti.
 
 ## Materiali 
-- Prima parte dell'esercizio: [Descrizione delle tabelle](https://)
-- Seconda parte dell'esercizio: [Dati da importare](https://) + [Interrogazioni](https://)
+- Prima parte dell'esercizio: [Descrizione delle tabelle]()
+- Seconda parte dell'esercizio: [Dati da importare]() + [Interrogazioni]()
