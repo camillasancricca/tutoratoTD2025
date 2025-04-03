@@ -2,7 +2,7 @@
 
 ## Scopo del tutorato
 - Approfondiremo l’utilizzo di SQL per la progettazione e la realizzazione di un database
-  - Utilizzeremo un tool open source per creare uno schema di tabelle e, successivamente, interrogarle [DB Fiddle](https://www.db-fiddle.com/)
+  - Utilizzeremo un tool open source per creare uno schema di tabelle e, successivamente, interrogarle: [DB Fiddle](https://www.db-fiddle.com/)
 - Potrete ottenere fino a 1 punto aggiuntivo sul voto finale dell’esame
 
 ## Calendario e programma
@@ -16,13 +16,13 @@
 
 Modalità del tutorato:
 - Gli incontri si svolgeranno in modalità *a distanza*
-- Le presenze verranno rilevate nei primi 15 minuti a partire dagli orari indicati; si raccomanda pertanto la *massima puntualità*.
+- Le presenze verranno rilevate nei primi 15 minuti a partire dagli orari indicati; si raccomanda la *massima puntualità*
 
 Prima lezione (3 ore): creazione di un database
 - Verrà pubblicata la descrizione di uno schema di tabelle
 - Dovrete creare il database rispettando le specifiche indicate
 
-Seconda lezione (2 ore): caricamento dei dati e interrogazione delle tabelle (in autonomia)
+Seconda lezione (2 ore): caricamento dei dati e interrogazione delle tabelle *in autonomia*
 - Vi verrà fornito un file contenente i dati da importare nel database precedentemente creato e 5 interrogazioni
 - Dovrete caricare i dati e procedere alla scrittura delle interrogazioni
 
@@ -32,12 +32,12 @@ Seconda lezione (2 ore): caricamento dei dati e interrogazione delle tabelle (in
   - La maggior parte delle attività di tutorato si svolgeranno in autonomia, pertanto è consigliato avere una minima infarinatura del linguaggio SQL spiegato durante le esercitazioni 
 
 ## Come si ottiene l'incremento
-E' previsto l'incremento massimo di 1 punto sul voto dell'esame, in funzione della valutazione dell'attività di tutorato, se tutte le seguenti condizioni saranno soddisfatte:
-- Parteciperete ad entrambi gli incontri (del vostro scaglione)
-- Invierete il materiale per la valutazione dell’attività secondo le modalità di consegna indicate, e la valutazione è risultata positiva
-- Realizzerete il materiale in completa autonomia
+E' previsto l'incremento **massimo di 1 punto** sul voto dell'esame, se tutte le seguenti condizioni saranno soddisfatte:
+1. Parteciperete ad entrambi gli incontri (del vostro scaglione)
+2. Invierete il materiale per la valutazione dell’attività secondo le modalità di consegna indicate, e la valutazione è risultata positiva
+3. Realizzerete il materiale in completa autonomia
   - Il materiale consegnato è soggetto ad antiplagio
-- Il voto dell’esame è >= 18 prima dell’incremento
+4. Il voto dell’esame è >= 18 prima dell’incremento
 
 ## In cosa consiste l'attività valutata
 - La scrittura delle query sarà oggetto di valutazione
@@ -62,13 +62,13 @@ Per ciascuna query:
 - Dovete consegnare un unico file ZIP, nominato solamente con il vostro codice persona (es. `10765432.zip`, attenzione a NON inserire la matricola)
 - All'interno del file ZIP devono essere presenti da 1 a 5 file scritti in linguaggio SQL, chiamati rispettivamente `1.txt` - `2.txt` - ...,  ciascun file deve contenere la query n. 1, 2, 3, 4 e 5 (i numeri devono rispecchiare le query riportate nel testo dell'esercizio)
   - Per esempio, il file `1.txt` deve contenere la soluzione della prima query del testo dell'esercizio, analogamente per gli altri file
-- Ogni file deve essere correttamente formattato secondo gli standard MySQL
+- Ogni file deve essere correttamente formattato secondo gli standard del linguaggio SQL
 - Ogni file deve poter essere eseguito indipendentemente dagli altri file (es. non si può utilizzare una VIEW creata in un altro file, ma ogni VIEW deve essere ridefinita all'interno di ogni file che la utilizza)
 
 Si consiglia di provare ad eseguire le query in *DB Fiddle*, e una volta soddisfatti della propria soluzione, copiarla e incollarla all'interno di una nuovo file .txt.
 
 ## Plagio
-Il tutorato non prevede lavori di gruppo. Ogni studente deve lavorare individualmente alla propria personale soluzione del problema. Ai fini della valutazione, gli studenti possono essere convocati, a campione o a giudizio dei tutor, per verificare l'effettiva paternità delle soluzioni inviate. Nel caso la verifica abbia esito negativo, verrà annullato l'incremento di voto assegnato e saranno presi adeguati provvedimenti.
+Il tutorato non prevede lavori di gruppo. Ogni studente deve lavorare individualmente alla propria personale soluzione. Ai fini della valutazione, gli studenti possono essere convocati, a campione o a giudizio dei tutor, per verificare l'effettiva paternità delle soluzioni inviate. Nel caso la verifica abbia esito negativo, verrà annullato l'incremento di voto assegnato e saranno presi adeguati provvedimenti.
 
 ## Materiali 
 - Prima parte dell'esercizio: [Descrizione delle tabelle](https://)
