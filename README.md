@@ -20,8 +20,8 @@
 
 Modalità del tutorato:
 - Gli incontri si svolgeranno in modalità *a distanza*
-- Le presenze verranno rilevate nei primi 15 minuti a partire dagli orari indicati; si raccomanda la *massima puntualità*
-- Per registrare la propria presenza: [TutorApp](https://www.tutorapp.polimi.it/#/selectUser)
+- Le presenze verranno rilevate nei primi 30 minuti di lezione a partire dagli orari indicati; si raccomanda la *massima puntualità*
+- Per registrare la propria presenza (disponibile dopo 15 minuti dall'inizio di ogni lezione): [TutorApp](https://www.tutorapp.polimi.it/#/selectUser)
 
 Prima lezione (3 ore): creazione di un database
 - Verrà pubblicata la descrizione di uno schema di tabelle
