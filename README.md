@@ -76,5 +76,7 @@ Si consiglia di provare ad eseguire le query in *DB Fiddle*, e una volta soddisf
 Il tutorato non prevede lavori di gruppo. Ogni studente deve lavorare individualmente alla propria personale soluzione. Ai fini della valutazione, gli studenti possono essere convocati, a campione o a giudizio dei tutor, per verificare l'effettiva paternità delle soluzioni inviate. Nel caso la verifica abbia esito negativo, verrà annullato l'incremento di voto assegnato e saranno presi adeguati provvedimenti.
 
 ## Materiali 
-- Prima parte dell'esercizio: [Descrizione delle tabelle]()
-- Seconda parte dell'esercizio: [Dati da importare]() + [Interrogazioni]()
+- Prima parte dell'esercizio: [Descrizione delle tabelle](https://polimi365-my.sharepoint.com/:b:/g/personal/10531812_polimi_it/Edlo0Mr_bNFKkioSZ7S_AWcBqxgxK55yXY7xIv4lbtt3IQ?e=GDHbOu)
+- Seconda parte dell'esercizio: Dati da importare + Interrogazioni
+- Riassunto DDL: [Riassunto](https://polimi365-my.sharepoint.com/:b:/g/personal/10531812_polimi_it/EYfGvkBwEuBBleDL-aXLzHYBnakUXe-cu195XF7_Y4XeLg?e=WgMwA3)
+- Slide approfondite DDL: [Approfondimento](https://polimi365-my.sharepoint.com/:b:/g/personal/10531812_polimi_it/EciwQbOvNYpGs7Qd1OjCP88BU6nkjS4KYq0uAB4RG4mQSA?e=gaNSqv)
