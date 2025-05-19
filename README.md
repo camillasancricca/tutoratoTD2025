@@ -77,6 +77,6 @@ Il tutorato non prevede lavori di gruppo. Ogni studente deve lavorare individual
 
 ## Materiali 
 - Prima parte dell'esercizio: [Descrizione delle tabelle](https://polimi365-my.sharepoint.com/:b:/g/personal/10531812_polimi_it/Edlo0Mr_bNFKkioSZ7S_AWcBqxgxK55yXY7xIv4lbtt3IQ?e=GDHbOu)
-- Seconda parte dell'esercizio: Dati da importare + Interrogazioni
+- Seconda parte dell'esercizio: [Dati da importare](https://polimi365-my.sharepoint.com/:t:/g/personal/10531812_polimi_it/ESyC0kEge9pPtMZgKmb9UFsBn8pBVCPNEKEHxopdSN-8Ng?e=IeNgvp) + [Interrogazioni](https://polimi365-my.sharepoint.com/:b:/g/personal/10531812_polimi_it/EeVSZyK1dIRPkjFGnen-5tUB4f6zdpyLVR9PK-i8R77nZQ?e=3et50n)
 - Riassunto DDL: [Riassunto](https://polimi365-my.sharepoint.com/:b:/g/personal/10531812_polimi_it/EYfGvkBwEuBBleDL-aXLzHYBnakUXe-cu195XF7_Y4XeLg?e=WgMwA3)
 - Slide approfondite DDL: [Approfondimento](https://polimi365-my.sharepoint.com/:b:/g/personal/10531812_polimi_it/EciwQbOvNYpGs7Qd1OjCP88BU6nkjS4KYq0uAB4RG4mQSA?e=gaNSqv)
